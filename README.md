@@ -1,5 +1,7 @@
 # Chicken Little
 
+> 🚧 **Status: actively in development.** This is a working prototype with some bugs still being worked out — not yet a finished product.
+
 A calm, colorful companion for a baby's first foods: know what to serve, know what's been tried, feel good about what's next.
 
 It's a static web app with no backend. Everything is saved in the browser on the device you use, and it works offline once added to your home screen.
