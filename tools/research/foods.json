@@ -1,0 +1,1916 @@
+{
+  "sources": [
+    {
+      "id": "hlbc-first-foods",
+      "title": "Baby's First Foods (HealthLinkBC File #69c)",
+      "agency": "HealthLink BC (Government of BC)",
+      "url": "https://www.healthlinkbc.ca/healthlinkbc-files/babys-first-foods"
+    },
+    {
+      "id": "hlbc-first-foods-pdf",
+      "title": "Child Nutrition Series No. 69c: Baby's First Foods (PDF, Sept 2024)",
+      "agency": "HealthLink BC (Government of BC)",
+      "url": "https://www.healthlinkbc.ca/sites/default/files/documents/hfile69c.pdf"
+    },
+    {
+      "id": "hlbc-allergy",
+      "title": "Reducing Risk of Food Allergy in Your Baby (PDF)",
+      "agency": "HealthLink BC (Government of BC)",
+      "url": "https://www.healthlinkbc.ca/sites/default/files/healthyeating/pdf/reducing_risk_of_food_allergy_in_your_baby.pdf"
+    },
+    {
+      "id": "hlbc-choking",
+      "title": "Preventing Choking in Babies and Young Children: For Child Care Providers (HealthLinkBC File #110b, PDF)",
+      "agency": "HealthLink BC (Government of BC)",
+      "url": "https://www.healthlinkbc.ca/sites/default/files/documents/healthfiles/hfile110b.pdf"
+    },
+    {
+      "id": "hlbc-intro-solids",
+      "title": "Introducing Solid Foods to Your Baby",
+      "agency": "HealthLink BC (Government of BC)",
+      "url": "https://www.healthlinkbc.ca/pregnancy-parenting/parenting-babies-0-12-months/feeding-your-baby/introducing-solid-foods-your"
+    },
+    {
+      "id": "hlbc-choking-topic",
+      "title": "Preventing Choking in Small Children",
+      "agency": "HealthLink BC (Government of BC)",
+      "url": "https://www.healthlinkbc.ca/health-topics/choking-prevention-small-children"
+    },
+    {
+      "id": "hc-6-24",
+      "title": "Nutrition for Healthy Term Infants: Recommendations from Six to 24 Months",
+      "agency": "Health Canada",
+      "url": "https://www.canada.ca/en/health-canada/services/canada-food-guide/resources/nutrition-healthy-term-infants/nutrition-healthy-term-infants-recommendations-birth-six-months/6-24-months.html"
+    },
+    {
+      "id": "hc-infant-nutrition",
+      "title": "Infant nutrition",
+      "agency": "Health Canada",
+      "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-nutrition.html"
+    },
+    {
+      "id": "hc-allergens",
+      "title": "Common food allergens",
+      "agency": "Health Canada",
+      "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/food-allergies-intolerances/food-allergies.html"
+    },
+    {
+      "id": "cdc-intro-solids",
+      "title": "When, What, and How to Introduce Solid Foods",
+      "agency": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+    },
+    {
+      "id": "cdc-choking",
+      "title": "Choking Hazards",
+      "agency": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html"
+    },
+    {
+      "id": "cdc-avoid",
+      "title": "Foods and Drinks to Avoid or Limit",
+      "agency": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html"
+    },
+    {
+      "id": "cdc-encourage",
+      "title": "Foods and Drinks to Encourage",
+      "agency": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-encourage.html"
+    },
+    {
+      "id": "cdc-textures",
+      "title": "Tastes and Textures",
+      "agency": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/tastes-and-textures.html"
+    },
+    {
+      "id": "cdc-cows-milk",
+      "title": "Cow's Milk and Milk Alternatives",
+      "agency": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html"
+    },
+    {
+      "id": "cdc-iron",
+      "title": "Iron",
+      "agency": "U.S. Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/infant-toddler-nutrition/vitamins-minerals/iron.html"
+    },
+    {
+      "id": "usda-wic-guidelines",
+      "title": "Guidelines for Feeding Healthy Infants (WIC job aid, PDF)",
+      "agency": "USDA Food and Nutrition Service (WIC Works)",
+      "url": "https://wicworks.fns.usda.gov/sites/default/files/media/document/Guidelines_for_Feeding_Healthy_Infants_Job_Aid.pdf"
+    },
+    {
+      "id": "usda-wic-choking",
+      "title": "Reducing the Risk of Choking in Young Children at Mealtimes (PDF)",
+      "agency": "USDA Food and Nutrition Service (WIC Works)",
+      "url": "https://wicworks.fns.usda.gov/sites/default/files/media/document/English_ReducingRiskofChokinginYoungChildren.pdf"
+    },
+    {
+      "id": "usda-wic-peanut",
+      "title": "Introducing Peanut Products to Babies",
+      "agency": "USDA Food and Nutrition Service (WIC Works)",
+      "url": "https://wicworks.fna.usda.gov/topic/food-allergies/peanut-allergy"
+    },
+    {
+      "id": "usda-wic-starting-solids",
+      "title": "Starting Solid Foods (WIC Breastfeeding Support)",
+      "agency": "USDA Food and Nutrition Service (WIC)",
+      "url": "https://wicbreastfeeding.fna.usda.gov/starting-solid-foods"
+    },
+    {
+      "id": "usda-cacfp-solids",
+      "title": "Feeding Infants in the CACFP, Chapter 6: Feeding Solid Foods (PDF)",
+      "agency": "USDA Food and Nutrition Service",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/fi-ch6-solidfoods.pdf"
+    },
+    {
+      "id": "usda-cacfp-choking",
+      "title": "Feeding Infants in the CACFP, Chapter 9: Choking Prevention (PDF)",
+      "agency": "USDA Food and Nutrition Service",
+      "url": "https://www.fna.usda.gov/sites/default/files/resource-files/FI_Ch9_Choking.pdf"
+    },
+    {
+      "id": "fda-fish",
+      "title": "Advice about Eating Fish",
+      "agency": "U.S. Food and Drug Administration (FDA)",
+      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+    },
+    {
+      "id": "fda-arsenic",
+      "title": "What You Can Do to Limit Exposure to Arsenic",
+      "agency": "U.S. Food and Drug Administration (FDA)",
+      "url": "https://www.fda.gov/food/environmental-contaminants-food/what-you-can-do-limit-exposure-arsenic"
+    },
+    {
+      "id": "niaid-parent-summary",
+      "title": "Guidelines for Parents: Prevention of Peanut Allergy (summary of the NIAID Addendum Guidelines, PDF)",
+      "agency": "National Institute of Allergy and Infectious Diseases (NIH)",
+      "url": "https://www.niaid.nih.gov/sites/default/files/peanut-allergy-prevention-guidelines-parent-summary.pdf"
+    },
+    {
+      "id": "niaid-appx-d",
+      "title": "Addendum Guidelines, Appendix D: Instructions for Home Feeding of Peanut Protein for Infants (PDF)",
+      "agency": "National Institute of Allergy and Infectious Diseases (NIH)",
+      "url": "https://www.niaid.nih.gov/sites/default/files/addendum_guidelines_peanut_appx_d.pdf"
+    }
+  ],
+  "general": [
+    {
+      "topic": "when-to-start",
+      "text": "Start solid foods at about 6 months, while breastfeeding continues, once the baby shows signs of readiness such as good head control, sitting up and leaning forward, opening the mouth for a spoon and trying to feed themselves.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hc-infant-nutrition",
+        "hc-6-24"
+      ]
+    },
+    {
+      "topic": "when-to-start",
+      "text": "US guidance also points to about 6 months and says not to start solids before 4 months. Its readiness signs include sitting with or without support, controlling the head and neck, bringing objects to the mouth, and swallowing food instead of pushing it back out.",
+      "sourceIds": [
+        "cdc-intro-solids",
+        "usda-wic-starting-solids"
+      ]
+    },
+    {
+      "topic": "iron",
+      "text": "Offer iron-rich foods first and give them at least twice a day. Examples are well-cooked meat, poultry and boneless fish, mashed cooked egg, lentils, beans, tofu, iron-fortified infant cereal, and smooth nut or seed butters thinned with warm water.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hlbc-first-foods-pdf",
+        "hc-infant-nutrition"
+      ]
+    },
+    {
+      "topic": "iron",
+      "text": "Health Canada recommends meat, deboned fish, poultry, meat alternatives (such as legumes and tofu) and iron-fortified cereal as first foods, offered several times a day to help prevent iron deficiency.",
+      "sourceIds": [
+        "hc-6-24"
+      ]
+    },
+    {
+      "topic": "iron",
+      "text": "CDC notes that iron from animal foods (meat, poultry, seafood, eggs) is absorbed more easily than iron from plant foods (fortified infant cereal, tofu, beans, lentils, dark leafy greens). Serving plant iron sources with vitamin C foods such as citrus, broccoli, berries, tomatoes or sweet potatoes helps absorption.",
+      "sourceIds": [
+        "cdc-iron"
+      ]
+    },
+    {
+      "topic": "textures",
+      "text": "From 6 months, offer a range of soft textures (lumpy, minced, ground, mashed or puréed) along with soft finger foods. Health Canada advises offering lumpy textures no later than 9 months, because waiting longer is linked with feeding difficulties later.",
+      "sourceIds": [
+        "hc-6-24",
+        "hlbc-first-foods"
+      ]
+    },
+    {
+      "topic": "textures",
+      "text": "Between about 8 and 12 months, move to chopped foods and more finger foods. By 12 months, offer family foods with modified textures (ground, mashed or chopped) and a tender consistency.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hc-6-24"
+      ]
+    },
+    {
+      "topic": "textures",
+      "text": "US sources start with smooth mashed, puréed or strained foods and move to thicker, lumpier foods, then finely chopped or ground foods, as skills develop. Coughing, gagging or spitting up can be normal while a baby adjusts to new textures.",
+      "sourceIds": [
+        "cdc-textures",
+        "cdc-intro-solids",
+        "usda-cacfp-solids"
+      ]
+    },
+    {
+      "topic": "textures",
+      "text": "USDA's infant meal guidance describes puréed or mashed foods at around 6 to 8 months, and ground or finely chopped foods at around 8 to 12 months. Finger foods should be in strips or small pieces no larger than half an inch.",
+      "sourceIds": [
+        "usda-cacfp-solids",
+        "usda-wic-guidelines"
+      ]
+    },
+    {
+      "topic": "allergen-introduction",
+      "text": "Common food allergens (peanut, tree nuts, sesame, egg, fish, shellfish, wheat, soy and milk products) can be introduced at about 6 months. Offer them one at a time, using foods the family normally eats.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hlbc-allergy"
+      ]
+    },
+    {
+      "topic": "allergen-introduction",
+      "text": "HealthLink BC says to give peanut and cooked egg early in particular. For a first taste, offer about a quarter of a baby spoonful, wait about 10 to 15 minutes, and offer more if there is no reaction.",
+      "sourceIds": [
+        "hlbc-allergy"
+      ]
+    },
+    {
+      "topic": "allergen-introduction",
+      "text": "Once the baby tolerates an allergen, keep offering it regularly, several times a week or more, so it stays in the diet.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods"
+      ]
+    },
+    {
+      "topic": "allergen-introduction",
+      "text": "Conflict on waiting time between new allergens: HealthLink BC's allergy handout says research does not show a need to wait a set number of days. Health Canada's infant nutrition page says to wait two days before a new food, and HealthLink BC's solids page says to wait a few days. CDC and USDA WIC suggest single-ingredient foods with 3 to 5 days between them.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hc-infant-nutrition",
+        "hlbc-intro-solids",
+        "cdc-intro-solids",
+        "usda-wic-guidelines"
+      ]
+    },
+    {
+      "topic": "allergen-introduction",
+      "text": "US sources say to introduce allergenic foods such as egg, shellfish, nut butters and wheat at the same time as other foods. They advise talking with the baby's doctor first if the baby has severe eczema or an egg allergy.",
+      "sourceIds": [
+        "cdc-intro-solids",
+        "usda-wic-starting-solids",
+        "usda-wic-peanut"
+      ]
+    },
+    {
+      "topic": "allergen-introduction",
+      "text": "Babies with a family history of allergic conditions, or with eczema or a food allergy themselves, are at higher risk. HealthLink BC advises keeping eczema well controlled and talking with a health care provider, who may refer the baby to a specialist.",
+      "sourceIds": [
+        "hlbc-allergy"
+      ]
+    },
+    {
+      "topic": "allergen-introduction",
+      "text": "Health Canada lists these priority food allergens: eggs, milk, mustard, peanuts, crustaceans and molluscs, fish, sesame seeds, soy, sulphites, tree nuts, and wheat and triticale.",
+      "sourceIds": [
+        "hc-allergens"
+      ]
+    },
+    {
+      "topic": "reaction-signs",
+      "text": "Mild reactions often appear within minutes. Signs include hives, redness, swelling or rash, a stuffy or runny nose with itchy watery eyes, coughing or vomiting. Vomiting or diarrhea can also start hours later.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-intro-solids"
+      ]
+    },
+    {
+      "topic": "reaction-signs",
+      "text": "Severe reaction signs include swelling of the mouth, tongue or throat; hives that spread; trouble breathing, wheezing or repeated coughing; trouble swallowing or a hoarse cry; pale or blue colour in the face or lips; and faintness, weakness or passing out.",
+      "sourceIds": [
+        "hlbc-allergy"
+      ]
+    },
+    {
+      "topic": "emergency",
+      "text": "If a baby shows signs of a severe allergic reaction, call 9-1-1 or the local emergency number right away.",
+      "sourceIds": [
+        "hlbc-allergy"
+      ]
+    },
+    {
+      "topic": "emergency",
+      "text": "For choking, follow first-aid procedures if the child cannot cough or speak or is turning blue. Go to the emergency room or call 9-1-1 if coughing continues or retching or wheezing develops. Parents and caregivers are encouraged to learn choking first aid.",
+      "sourceIds": [
+        "hlbc-choking",
+        "hlbc-first-foods",
+        "hc-6-24",
+        "cdc-choking"
+      ]
+    },
+    {
+      "topic": "emergency",
+      "text": "In BC, parents can call 8-1-1 to talk with a registered nurse at any hour or a dietitian on weekdays for non-emergency feeding questions.",
+      "sourceIds": [
+        "hlbc-intro-solids"
+      ]
+    },
+    {
+      "topic": "choking",
+      "text": "Hard foods, small round foods, and smooth sticky foods can block a young child's airway. Health Canada lists hard candies, cough drops, gum, popcorn, marshmallows, peanuts or other nuts, seeds and fish with bones as unsafe for children under 4.",
+      "sourceIds": [
+        "hc-6-24",
+        "hc-infant-nutrition",
+        "hlbc-choking"
+      ]
+    },
+    {
+      "topic": "choking",
+      "text": "Ways to make foods safer: cut round foods (grapes, cherry tomatoes, large berries) into small pieces, cut hot dogs and sausages lengthwise, grate raw carrots and hard fruits such as apples, remove pits and bones, finely chop stringy foods such as celery or pineapple, and spread nut butter thinly.",
+      "sourceIds": [
+        "hc-6-24",
+        "hlbc-choking",
+        "hlbc-first-foods"
+      ]
+    },
+    {
+      "topic": "choking",
+      "text": "USDA advises cooking or steaming hard foods until a fork goes through easily, cutting soft foods into thin slices or pieces no larger than half an inch, removing seeds, pits and tough skins, and grinding tough meats.",
+      "sourceIds": [
+        "usda-cacfp-choking",
+        "usda-wic-choking",
+        "usda-cacfp-solids"
+      ]
+    },
+    {
+      "topic": "choking",
+      "text": "Always supervise eating. Keep the child sitting upright in a high chair or safe seat, and do not feed them in a car seat, stroller, moving vehicle or reclined seat or while they play or walk. Keep meals calm and offer small amounts.",
+      "sourceIds": [
+        "cdc-choking",
+        "hlbc-choking",
+        "hlbc-first-foods"
+      ]
+    },
+    {
+      "topic": "honey",
+      "text": "Never give honey, or foods made with honey, to a baby under 12 months, even if it is cooked, baked or pasteurized, because of the risk of infant botulism. Do not put honey on pacifiers either.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hc-6-24",
+        "hc-infant-nutrition",
+        "cdc-avoid",
+        "usda-cacfp-solids"
+      ]
+    },
+    {
+      "topic": "cow-milk",
+      "text": "Canada: pasteurized whole (homogenized, 3.25%) cow milk can be offered in an open cup from 9 to 12 months, once the baby eats a variety of iron-rich foods. Do not offer skim, 1% or 2% milk before age 2. Health Canada advises no more than 750 mL a day, because too much milk is linked with iron deficiency.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hc-6-24",
+        "hc-infant-nutrition",
+        "hlbc-allergy"
+      ]
+    },
+    {
+      "topic": "cow-milk",
+      "text": "CONFLICT with US guidance: CDC and USDA say not to give cow's milk as a drink before 12 months, then to offer whole, pasteurized, unflavored milk. Yogurt and cheese can be offered before 12 months under both Canadian and US guidance.",
+      "sourceIds": [
+        "cdc-cows-milk",
+        "cdc-avoid",
+        "cdc-intro-solids",
+        "usda-wic-starting-solids",
+        "hlbc-allergy"
+      ]
+    },
+    {
+      "topic": "plant-beverages",
+      "text": "Canadian guidance says not to offer plant-based drinks such as soy, rice, almond, oat or coconut beverages as the main milk before age 2, because they lack enough energy, fat or protein. CDC allows unsweetened plant beverages fortified with calcium and vitamin D from 12 months, so the two countries differ here.",
+      "sourceIds": [
+        "hc-6-24",
+        "hlbc-first-foods",
+        "cdc-cows-milk"
+      ]
+    },
+    {
+      "topic": "drinks",
+      "text": "Offer sips of water from an open cup with meals. HealthLink BC advises avoiding sugary drinks, including 100% fruit juice. Health Canada advises limiting juice. CDC and USDA say no juice before 12 months and no sugar-sweetened drinks before age 2.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hc-6-24",
+        "cdc-avoid",
+        "usda-wic-guidelines"
+      ]
+    },
+    {
+      "topic": "fish-mercury",
+      "text": "Choose fish lower in mercury, such as salmon, trout, sole, cod, pollock, halibut, herring, sardines and canned light tuna. Health Canada says to avoid fresh or frozen tuna, shark, swordfish, marlin, orange roughy and escolar, or limit them to 75 g a month.",
+      "sourceIds": [
+        "hlbc-first-foods-pdf",
+        "hc-6-24"
+      ]
+    },
+    {
+      "topic": "fish-mercury",
+      "text": "The US lists of fish to avoid differ slightly: king mackerel, marlin, orange roughy, shark, swordfish, Gulf of Mexico tilefish and bigeye tuna. FDA lists salmon, shrimp, crab, cod and canned light tuna among its Best Choices.",
+      "sourceIds": [
+        "cdc-avoid",
+        "fda-fish"
+      ]
+    },
+    {
+      "topic": "food-safety",
+      "text": "Do not give babies raw or undercooked meat, poultry, fish or eggs, or unpasteurized milk, cheese, yogurt or juice.",
+      "sourceIds": [
+        "hc-6-24",
+        "cdc-avoid",
+        "usda-cacfp-solids"
+      ]
+    },
+    {
+      "topic": "salt-sugar",
+      "text": "Make baby's food with little or no added salt or sugar. US guidance says children under 2 need no added sugars and should limit high-sodium processed foods.",
+      "sourceIds": [
+        "hc-6-24",
+        "hlbc-first-foods",
+        "cdc-avoid"
+      ]
+    },
+    {
+      "topic": "grains-arsenic",
+      "text": "Offer a variety of iron-fortified infant cereals, such as oat, barley and multigrain, rather than only rice cereal, to limit arsenic exposure.",
+      "sourceIds": [
+        "cdc-intro-solids",
+        "fda-arsenic",
+        "usda-cacfp-solids"
+      ]
+    },
+    {
+      "topic": "vitamin-d",
+      "text": "Canadian guidance recommends a daily 400 IU vitamin D supplement for breastfed babies, but not for babies fed formula.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hc-6-24"
+      ]
+    },
+    {
+      "topic": "responsive-feeding",
+      "text": "Follow your baby's hunger and fullness cues. The parent decides what, when and where food is offered, and the baby decides whether to eat and how much.",
+      "sourceIds": [
+        "hc-6-24",
+        "hlbc-first-foods"
+      ]
+    }
+  ],
+  "allergens": [
+    {
+      "id": "peanut",
+      "name": "Peanut",
+      "guidance": "Introduce at about 6 months, once the baby shows readiness signs. To start, blend about 1 tablespoon of smooth peanut butter with an equal amount of warm water or breast milk until smooth, then stir it into infant cereal or a fruit purée. For older babies, spread it thinly on toast strips. Never give whole peanuts or globs of peanut butter, because they are choking hazards. After a tolerated first taste, keep offering peanut several times a week. US NIAID guidelines say babies with severe eczema and/or egg allergy should have peanut introduced as early as 4 to 6 months, after seeing a health care provider who may test first. Babies with mild to moderate eczema can start around 6 months, and babies without eczema or food allergy can start at home along with other foods. NIAID's home-feeding instructions offer thinned peanut butter (2 tsp peanut butter mixed with 2 to 3 tsp hot water), peanut butter blended into puréed fruit or vegetables, peanut powder mixed into a purée, or peanut puffs softened with water for babies under 7 months. They also advise giving the first feeding at home (not at daycare) when the baby is healthy: a small taste, a 10-minute wait, then the rest, followed by watching the baby for 2 hours.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods",
+        "hc-6-24",
+        "niaid-parent-summary",
+        "niaid-appx-d",
+        "usda-wic-peanut",
+        "cdc-intro-solids"
+      ]
+    },
+    {
+      "id": "egg",
+      "name": "Egg",
+      "guidance": "Introduce well-cooked egg (both white and yolk) at about 6 months. HealthLink BC recommends giving cooked egg early. Mash a hard-boiled egg with a fork, adding a little breast milk or water if needed. Later, offer scrambled egg or egg cooked into foods such as French toast. Avoid raw or lightly cooked egg. USDA notes there is no evidence that delaying egg white past 4 to 6 months prevents allergy. Keep offering egg several times a week once tolerated.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods",
+        "hc-6-24",
+        "usda-cacfp-solids"
+      ]
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "guidance": "Milk products such as yogurt and cheese can be offered from 6 months, and they must be pasteurized. Grated hard cheese is a suggested finger food. Canada allows whole (3.25%) cow milk as a drink from 9 to 12 months, while US sources wait until 12 months. Keep offering milk products regularly once tolerated.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods",
+        "hc-6-24",
+        "cdc-cows-milk",
+        "cdc-intro-solids"
+      ]
+    },
+    {
+      "id": "wheat",
+      "name": "Wheat",
+      "guidance": "Wheat is a common allergen that can be introduced at about 6 months. Iron-fortified wheat infant cereal, toast strips and soft pasta are wheat foods the sources mention for babies. Avoid crackers or breads with seeds, nuts or whole-grain kernels, because they are choking hazards. Keep offering wheat regularly once tolerated.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods",
+        "cdc-intro-solids",
+        "usda-cacfp-solids",
+        "cdc-choking"
+      ]
+    },
+    {
+      "id": "soy",
+      "name": "Soy",
+      "guidance": "Soy is a common allergen that can be introduced at about 6 months. Mashed or finely minced tofu is a suggested iron-rich first food, and small pieces of cooked tofu suit 8 to 12 months. Soy beverage is not a suitable main milk before age 2 in Canada. Keep offering soy regularly once tolerated.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods",
+        "hlbc-first-foods-pdf",
+        "hc-6-24"
+      ]
+    },
+    {
+      "id": "fish",
+      "name": "Fish",
+      "guidance": "Fish can be introduced at about 6 months. Serve it well-cooked, boneless, and finely minced or shredded, choosing fish lower in mercury such as salmon, trout, cod, sole, pollock or canned light tuna. Remove all bones, because fish with bones is a choking hazard. Keep offering fish regularly once tolerated.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods",
+        "hlbc-first-foods-pdf",
+        "hc-6-24",
+        "fda-fish"
+      ]
+    },
+    {
+      "id": "crustaceans-molluscs",
+      "name": "Crustaceans & molluscs (shellfish)",
+      "guidance": "Shellfish is listed among the common allergens that can be introduced at about 6 months. HealthLink BC and Health Canada give no shellfish-specific preparation. USDA's infant guidance groups shellfish such as crab and shrimp with meats, which should be puréed or mashed at about 6 to 8 months and finely chopped at about 8 to 12 months. Like all seafood, shellfish must be fully cooked. Keep offering it regularly once tolerated.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods",
+        "hc-allergens",
+        "usda-cacfp-solids",
+        "hc-6-24",
+        "cdc-intro-solids"
+      ]
+    },
+    {
+      "id": "tree-nuts",
+      "name": "Tree nuts",
+      "guidance": "Introduce at about 6 months as smooth tree nut butter, prepared the same way as peanut butter: blended with an equal amount of warm water and stirred into infant cereal, or spread thinly on toast for older babies. Never give whole or chopped tree nuts or globs of nut butter to young children, because they are choking hazards. Keep offering once tolerated.",
+      "sourceIds": [
+        "hlbc-allergy",
+        "hlbc-first-foods",
+        "hc-6-24",
+        "usda-wic-choking"
+      ]
+    },
+    {
+      "id": "sesame",
+      "name": "Sesame",
+      "guidance": "Sesame is a common allergen that can be introduced at about 6 months. HealthLink BC lists smooth seed butters alongside nut butters, either thinned with warm water and stirred into infant cereal or spread thinly on toast. Do not give whole seeds or chunks of seed butter, because they are choking hazards. Keep offering once tolerated.",
+      "sourceIds": [
+        "hlbc-first-foods",
+        "hlbc-allergy",
+        "hc-6-24",
+        "usda-cacfp-choking"
+      ]
+    },
+    {
+      "id": "mustard",
+      "name": "Mustard",
+      "guidance": "Health Canada lists mustard as a priority food allergen. None of the government sources reviewed give infant-specific guidance on introducing mustard, so the general advice applies: introduce common allergens one at a time from about 6 months using family foods, and watch for reactions.",
+      "sourceIds": [
+        "hc-allergens",
+        "hlbc-allergy"
+      ]
+    }
+  ],
+  "foods": [
+    {
+      "slug": "banana",
+      "name": "Banana",
+      "category": "fruit",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Soft, ripe banana is named as a suitable first finger food, and it can also be mashed.",
+          "sourceIds": [
+            "hc-6-24",
+            "hc-infant-nutrition",
+            "hlbc-first-foods"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped pieces as a finger food.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Serve without the peel.",
+          "sourceIds": [
+            "hlbc-first-foods"
+          ]
+        }
+      ],
+      "usdaQuery": "Bananas, raw"
+    },
+    {
+      "slug": "avocado",
+      "name": "Avocado",
+      "category": "fruit",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Offer plain mashed or puréed avocado with the pit and skin removed.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped pieces no larger than half an inch.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Remove pits, seeds and tough skins or peels, then cut into thin slices or pieces no larger than half an inch.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "usda-wic-choking"
+          ]
+        }
+      ],
+      "usdaQuery": "Avocados, raw, all commercial varieties"
+    },
+    {
+      "slug": "sweet-potato",
+      "name": "Sweet potato",
+      "category": "vegetable",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Cook sweet potato and serve it plain, puréed or mashed.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "cdc-encourage"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped cooked pieces.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Cook or steam until a fork goes through easily, then purée, mash or finely chop to suit the baby's stage.",
+          "sourceIds": [
+            "usda-cacfp-choking",
+            "usda-wic-choking"
+          ]
+        },
+        {
+          "text": "Sweet potato is a vitamin C food that helps the body absorb iron from plant foods.",
+          "sourceIds": [
+            "cdc-iron"
+          ]
+        }
+      ],
+      "usdaQuery": "Sweet potato, cooked, baked in skin, flesh, without salt"
+    },
+    {
+      "slug": "carrot",
+      "name": "Carrot",
+      "category": "vegetable",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Cook carrots until they mash easily with a fork, then mash or purée until smooth.",
+          "sourceIds": [
+            "cdc-intro-solids",
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped cooked carrot. Grated raw vegetables are a suggested finger food from 8 to 12 months.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "hlbc-first-foods"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Hard pieces of raw carrot are a choking hazard. Grate raw carrot, or cook or steam it until soft.",
+          "sourceIds": [
+            "hc-6-24",
+            "cdc-choking",
+            "hlbc-choking",
+            "usda-wic-choking"
+          ]
+        },
+        {
+          "text": "Cut carrot sticks and baby carrots into short strips rather than rounds.",
+          "sourceIds": [
+            "usda-wic-choking"
+          ]
+        },
+        {
+          "text": "USDA advises that home-grown carrots should not be fed to babies under 6 months, because they may be high in nitrates.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Carrots, cooked, boiled, drained, without salt"
+    },
+    {
+      "slug": "broccoli",
+      "name": "Broccoli",
+      "category": "vegetable",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve cooked broccoli plain, puréed or mashed.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped cooked pieces.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Cook or steam until a fork goes through easily, then purée, mash or finely chop to suit the baby's stage.",
+          "sourceIds": [
+            "usda-cacfp-choking",
+            "usda-wic-choking"
+          ]
+        },
+        {
+          "text": "Broccoli is a vitamin C food that helps the body absorb iron from plant foods.",
+          "sourceIds": [
+            "cdc-iron"
+          ]
+        }
+      ],
+      "usdaQuery": "Broccoli, cooked, boiled, drained, without salt"
+    },
+    {
+      "slug": "squash",
+      "name": "Butternut squash",
+      "category": "vegetable",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve cooked squash plain, puréed or mashed.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped cooked pieces.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Cook or steam until a fork goes through easily, then purée, mash or finely chop to suit the baby's stage.",
+          "sourceIds": [
+            "usda-cacfp-choking",
+            "usda-wic-choking"
+          ]
+        }
+      ],
+      "usdaQuery": "Squash, winter, butternut, cooked, baked, without salt"
+    },
+    {
+      "slug": "spinach",
+      "name": "Spinach",
+      "category": "vegetable",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve cooked spinach plain, puréed or mashed.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "cdc-encourage"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped cooked spinach.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "USDA advises that home-grown spinach should not be fed to babies under 6 months, because of possible high nitrate levels.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "text": "CDC lists dark green leafy vegetables as a plant source of iron, which the body absorbs less easily than iron from animal foods.",
+          "sourceIds": [
+            "cdc-iron"
+          ]
+        }
+      ],
+      "usdaQuery": "Spinach, cooked, boiled, drained, without salt"
+    },
+    {
+      "slug": "apple",
+      "name": "Apple",
+      "category": "fruit",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Cook apple until it mashes easily with a fork, then mash or purée until smooth.",
+          "sourceIds": [
+            "cdc-intro-solids",
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped soft-cooked apple, or grated raw apple.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "hc-6-24"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Raw apple pieces are a choking hazard. Grate or finely chop raw apple, or cook it until soft.",
+          "sourceIds": [
+            "hc-6-24",
+            "hlbc-choking",
+            "cdc-choking",
+            "hlbc-intro-solids"
+          ]
+        },
+        {
+          "text": "Remove pits, seeds and tough skins or peels, then cut into thin slices or pieces no larger than half an inch.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "usda-wic-choking"
+          ]
+        }
+      ],
+      "usdaQuery": "Apples, raw, with skin"
+    },
+    {
+      "slug": "pear",
+      "name": "Pear",
+      "category": "fruit",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve plain puréed or mashed pear. Ripe pear is soft, while firm pear should be cooked until it mashes easily.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "cdc-intro-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped pieces.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Remove pits, seeds and tough skins or peels, then cut into thin slices or pieces no larger than half an inch.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "usda-wic-choking"
+          ]
+        }
+      ],
+      "usdaQuery": "Pears, raw"
+    },
+    {
+      "slug": "peas",
+      "name": "Green peas",
+      "category": "vegetable",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve cooked peas puréed or mashed.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Mash or finely chop cooked peas.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "USDA advises puréeing or mashing peas and beans to prevent choking.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Peas, green, frozen, cooked, boiled, drained, without salt"
+    },
+    {
+      "slug": "blueberries",
+      "name": "Blueberries",
+      "category": "fruit",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve as a plain purée or mashed.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Cut into small pieces.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "hlbc-first-foods"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Whole round berries are a choking hazard. Cut large berries, especially blueberries, lengthwise and into small pieces.",
+          "sourceIds": [
+            "hlbc-choking",
+            "hlbc-first-foods",
+            "cdc-choking",
+            "cdc-intro-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Blueberries, raw"
+    },
+    {
+      "slug": "strawberries",
+      "name": "Strawberries",
+      "category": "fruit",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve as a plain purée or mashed.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer finely chopped pieces no larger than half an inch.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Uncut berries are a choking hazard, so cut them into small pieces.",
+          "sourceIds": [
+            "cdc-choking",
+            "cdc-intro-solids",
+            "hlbc-intro-solids"
+          ]
+        },
+        {
+          "text": "Strawberries are a vitamin C food that helps the body absorb iron from plant foods.",
+          "sourceIds": [
+            "cdc-iron"
+          ]
+        }
+      ],
+      "usdaQuery": "Strawberries, raw"
+    },
+    {
+      "slug": "grapes",
+      "name": "Grapes",
+      "category": "fruit",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "9-12 months",
+          "text": "Cut grapes lengthwise, then into small pieces. USDA suggests quarters, no larger than half an inch.",
+          "sourceIds": [
+            "hlbc-choking",
+            "usda-cacfp-choking",
+            "usda-wic-choking"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Whole grapes are a choking hazard for young children. Always cut them before serving.",
+          "sourceIds": [
+            "hc-6-24",
+            "hlbc-first-foods",
+            "cdc-choking",
+            "hlbc-intro-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Grapes, red or green (European type, such as Thompson seedless), raw"
+    },
+    {
+      "slug": "cherry-tomatoes",
+      "name": "Cherry tomatoes",
+      "category": "vegetable",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "9-12 months",
+          "text": "Cut lengthwise into quarters or small pieces.",
+          "sourceIds": [
+            "usda-cacfp-choking",
+            "hlbc-choking"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Uncut cherry or grape tomatoes are a choking hazard.",
+          "sourceIds": [
+            "cdc-choking",
+            "hlbc-first-foods",
+            "hlbc-intro-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Tomatoes, red, ripe, raw, year round average"
+    },
+    {
+      "slug": "infant-cereal",
+      "name": "Iron-fortified infant cereal",
+      "category": "grain",
+      "allergens": [
+        "wheat"
+      ],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Iron-fortified infant cereal is a common first food. Mix it with breast milk, formula or water until smooth and easy to swallow.",
+          "sourceIds": [
+            "hc-infant-nutrition",
+            "hc-6-24",
+            "cdc-intro-solids",
+            "usda-wic-guidelines"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Use less liquid as the baby grows to make a thicker texture.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Rotate oat, barley, wheat and multigrain cereals rather than using only rice cereal, to limit arsenic exposure.",
+          "sourceIds": [
+            "cdc-intro-solids",
+            "fda-arsenic"
+          ]
+        },
+        {
+          "text": "Cereals made with wheat contain a common allergen, so check the label.",
+          "sourceIds": [
+            "hlbc-allergy"
+          ]
+        }
+      ],
+      "usdaQuery": "Cereals, ready-to-eat, infant, dry, iron fortified"
+    },
+    {
+      "slug": "oats",
+      "name": "Oats / oatmeal",
+      "category": "grain",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Oat infant cereal is one of the iron-fortified cereals recommended for variety. Mix cooked grains with breast milk, formula or water until smooth.",
+          "sourceIds": [
+            "cdc-intro-solids",
+            "fda-arsenic"
+          ]
+        }
+      ],
+      "safety": [],
+      "usdaQuery": "Cereals, oats, regular and quick, unenriched, cooked with water, without salt"
+    },
+    {
+      "slug": "toast",
+      "name": "Bread / toast",
+      "category": "grain",
+      "allergens": [
+        "wheat"
+      ],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Strips of toast (plain, with butter or margarine, or with a thin layer of smooth nut or seed butter) and bread crusts are suggested early finger foods.",
+          "sourceIds": [
+            "hlbc-first-foods-pdf",
+            "hc-6-24",
+            "hc-infant-nutrition"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer small strips or pieces of dry bread or toast no larger than half an inch. HealthLink BC also suggests bannock, roti and tortilla pieces.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "hlbc-first-foods"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Breads and crackers containing seeds, nuts or whole-grain kernels are choking hazards.",
+          "sourceIds": [
+            "cdc-choking",
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Bread, whole-wheat, commercially prepared, toasted"
+    },
+    {
+      "slug": "pasta",
+      "name": "Pasta",
+      "category": "grain",
+      "allergens": [
+        "wheat"
+      ],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "9-12 months",
+          "text": "Offer small pieces of cooked pasta as a finger food.",
+          "sourceIds": [
+            "hlbc-first-foods"
+          ]
+        },
+        {
+          "stage": "all ages",
+          "text": "US guidance lists whole grain pastas among foods to encourage.",
+          "sourceIds": [
+            "cdc-encourage"
+          ]
+        }
+      ],
+      "safety": [],
+      "usdaQuery": "Pasta, whole-wheat, cooked"
+    },
+    {
+      "slug": "rice",
+      "name": "Rice",
+      "category": "grain",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Cook whole grains such as rice well, then finely grind or mash them and mix with breast milk, formula or water.",
+          "sourceIds": [
+            "cdc-intro-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Small pieces of rice are a suggested finger food.",
+          "sourceIds": [
+            "hlbc-first-foods"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Offer a variety of grains, not only rice. Cooking rice in extra water and draining it reduces arsenic, though it also removes some nutrients.",
+          "sourceIds": [
+            "fda-arsenic",
+            "cdc-intro-solids"
+          ]
+        },
+        {
+          "text": "Rice beverage is not a suitable milk replacement for young children.",
+          "sourceIds": [
+            "hc-6-24"
+          ]
+        }
+      ],
+      "usdaQuery": "Rice, brown, long-grain, cooked"
+    },
+    {
+      "slug": "egg",
+      "name": "Egg",
+      "category": "protein",
+      "allergens": [
+        "egg"
+      ],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Offer mashed, well-cooked egg. Mash a hard-boiled egg with a fork and add a little breast milk or water if needed.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hlbc-allergy"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer small pieces of cooked egg, scrambled egg, or a diced boiled egg (white and yolk together).",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hlbc-allergy",
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Never serve raw or lightly cooked egg, or foods containing them.",
+          "sourceIds": [
+            "hc-6-24"
+          ]
+        },
+        {
+          "text": "Egg is a common allergen. Introduce it early and keep it in the diet several times a week once tolerated.",
+          "sourceIds": [
+            "hlbc-allergy"
+          ]
+        }
+      ],
+      "usdaQuery": "Egg, whole, cooked, hard-boiled"
+    },
+    {
+      "slug": "peanut-butter",
+      "name": "Peanut butter (smooth)",
+      "category": "protein",
+      "allergens": [
+        "peanut"
+      ],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Blend smooth peanut butter with an equal amount of warm water or breast milk until smooth, then stir it into iron-fortified infant cereal or a fruit purée. Never serve it from a spoon or in globs.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hlbc-allergy",
+            "niaid-appx-d",
+            "usda-wic-peanut"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Spread a thin layer of smooth peanut butter on toast strips.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hlbc-allergy",
+            "hc-6-24"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Chunks or spoonfuls of peanut butter, chunky peanut butter, and whole or chopped peanuts are choking hazards. Use only smooth peanut butter spread thinly.",
+          "sourceIds": [
+            "cdc-choking",
+            "usda-wic-choking",
+            "usda-cacfp-choking",
+            "hlbc-choking"
+          ]
+        },
+        {
+          "text": "Babies with severe eczema or egg allergy should see a health care provider before trying peanut.",
+          "sourceIds": [
+            "niaid-parent-summary",
+            "cdc-intro-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Peanut butter, smooth style, without salt"
+    },
+    {
+      "slug": "tree-nut-butter",
+      "name": "Tree nut butter (e.g. almond, cashew)",
+      "category": "protein",
+      "allergens": [
+        "tree-nuts"
+      ],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Blend smooth tree nut butter with an equal amount of warm water and stir it into iron-fortified infant cereal.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hlbc-allergy"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Spread a thin layer on toast strips.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hlbc-allergy"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Whole or chopped tree nuts and globs of nut butter are choking hazards. Serve only smooth butter, spread thinly.",
+          "sourceIds": [
+            "hlbc-allergy",
+            "usda-wic-choking",
+            "hc-6-24"
+          ]
+        }
+      ],
+      "usdaQuery": "Nuts, almond butter, plain, without salt added"
+    },
+    {
+      "slug": "sesame-butter",
+      "name": "Sesame seed butter (tahini)",
+      "category": "protein",
+      "allergens": [
+        "sesame"
+      ],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "HealthLink BC lists smooth seed butters with nut butters: blend with an equal amount of warm water and stir into iron-fortified infant cereal.",
+          "sourceIds": [
+            "hlbc-first-foods"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Spread a thin layer on toast strips.",
+          "sourceIds": [
+            "hlbc-first-foods"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Whole seeds and chunks of seed butter are choking hazards for young children.",
+          "sourceIds": [
+            "hc-6-24",
+            "usda-cacfp-choking"
+          ]
+        }
+      ],
+      "usdaQuery": "Seeds, sesame butter, tahini"
+    },
+    {
+      "slug": "yogurt",
+      "name": "Yogurt (plain, whole)",
+      "category": "dairy",
+      "allergens": [
+        "milk"
+      ],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Yogurt can be offered from 6 months. Choose pasteurized yogurt without added sugar.",
+          "sourceIds": [
+            "hlbc-allergy",
+            "cdc-intro-solids",
+            "usda-wic-starting-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Avoid unpasteurized yogurt and flavoured yogurts with added sugar.",
+          "sourceIds": [
+            "cdc-avoid"
+          ]
+        }
+      ],
+      "usdaQuery": "Yogurt, plain, whole milk"
+    },
+    {
+      "slug": "cheese",
+      "name": "Cheese",
+      "category": "dairy",
+      "allergens": [
+        "milk"
+      ],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Grated hard cheese is a suggested early finger food.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hc-6-24",
+            "hc-infant-nutrition"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Grate cheese or slice it thinly. Cut string cheese into short thin strips rather than rounds.",
+          "sourceIds": [
+            "usda-wic-choking",
+            "cdc-intro-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Large chunks or cubes of cheese and whole string cheese are choking hazards.",
+          "sourceIds": [
+            "cdc-choking",
+            "usda-wic-choking"
+          ]
+        },
+        {
+          "text": "Use only pasteurized cheese.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "cdc-avoid",
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Cheese, cheddar"
+    },
+    {
+      "slug": "tofu",
+      "name": "Tofu",
+      "category": "protein",
+      "allergens": [
+        "soy"
+      ],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Offer mashed or finely minced tofu as an iron-rich first food.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hlbc-first-foods-pdf"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer small pieces of cooked tofu.",
+          "sourceIds": [
+            "hlbc-first-foods"
+          ]
+        }
+      ],
+      "safety": [],
+      "usdaQuery": "Tofu, firm, prepared with calcium sulfate"
+    },
+    {
+      "slug": "lentils-beans",
+      "name": "Lentils & beans",
+      "category": "protein",
+      "allergens": [],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Offer cooked lentils or beans mashed or puréed.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "usda-cacfp-solids",
+            "hlbc-intro-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer small pieces of soft cooked beans. If using canned beans, choose reduced-sodium versions.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Whole beans are on CDC's choking hazard list, so purée or mash them for babies.",
+          "sourceIds": [
+            "cdc-choking",
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Lentils, mature seeds, cooked, boiled, without salt"
+    },
+    {
+      "slug": "chicken",
+      "name": "Chicken / turkey",
+      "category": "protein",
+      "allergens": [],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve well-cooked chicken finely minced, shredded, ground or puréed.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hc-6-24",
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer small pieces of soft cooked chicken, finely chopped.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Remove all bones, skin and fat. Never serve raw or undercooked meat, poultry or fish.",
+          "sourceIds": [
+            "cdc-intro-solids",
+            "usda-wic-choking",
+            "hc-6-24"
+          ]
+        },
+        {
+          "text": "Chicken bones are a choking hazard, so remove them before serving.",
+          "sourceIds": [
+            "hlbc-choking"
+          ]
+        }
+      ],
+      "usdaQuery": "Chicken, broilers or fryers, meat only, cooked, roasted"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef",
+      "category": "protein",
+      "allergens": [],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve well-cooked beef finely minced, ground or puréed.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hc-6-24",
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer small pieces of soft cooked beef, finely chopped. Grind tough meat.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "usda-cacfp-solids",
+            "usda-wic-choking"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Remove all bones, skin and fat. Never serve raw or undercooked meat, poultry or fish.",
+          "sourceIds": [
+            "cdc-intro-solids",
+            "usda-wic-choking",
+            "hc-6-24"
+          ]
+        },
+        {
+          "text": "Tough or large chunks of meat are choking hazards.",
+          "sourceIds": [
+            "cdc-choking"
+          ]
+        }
+      ],
+      "usdaQuery": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled"
+    },
+    {
+      "slug": "salmon",
+      "name": "Salmon & other fish",
+      "category": "protein",
+      "allergens": [
+        "fish"
+      ],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "Serve well-cooked, boneless fish finely minced, shredded or mashed.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hc-6-24"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Offer small pieces of soft cooked fish.",
+          "sourceIds": [
+            "hlbc-first-foods"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Remove all bones, because fish with bones is a choking hazard.",
+          "sourceIds": [
+            "hc-6-24",
+            "hlbc-choking",
+            "cdc-choking"
+          ]
+        },
+        {
+          "text": "Choose fish lower in mercury, such as salmon, trout, cod, sole, pollock, halibut, sardines or canned light tuna. Avoid shark, swordfish, marlin, orange roughy, fresh or frozen tuna and escolar, or limit them to 75 g a month.",
+          "sourceIds": [
+            "hlbc-first-foods-pdf",
+            "hc-6-24",
+            "fda-fish"
+          ]
+        }
+      ],
+      "usdaQuery": "Fish, salmon, Atlantic, farmed, cooked, dry heat"
+    },
+    {
+      "slug": "shrimp",
+      "name": "Shrimp",
+      "category": "protein",
+      "allergens": [
+        "crustaceans-molluscs"
+      ],
+      "ironRich": true,
+      "prep": [
+        {
+          "stage": "6-8 months",
+          "text": "No shrimp-specific guidance was found. USDA groups shellfish with meats, which should be puréed or mashed at this stage.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        },
+        {
+          "stage": "9-12 months",
+          "text": "Finely chop, in pieces no larger than half an inch, using the general meat guidance.",
+          "sourceIds": [
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Shrimp is a shellfish, which is a common allergen to introduce at about 6 months.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hlbc-allergy"
+          ]
+        },
+        {
+          "text": "Serve fully cooked, as raw or undercooked seafood should never be given to young children.",
+          "sourceIds": [
+            "hc-6-24"
+          ]
+        },
+        {
+          "text": "FDA lists shrimp among its Best Choices for low mercury.",
+          "sourceIds": [
+            "fda-fish"
+          ]
+        }
+      ],
+      "usdaQuery": "Crustaceans, shrimp, cooked"
+    },
+    {
+      "slug": "hot-dogs",
+      "name": "Hot dogs & sausages",
+      "category": "protein",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "12+ months",
+          "text": "If served, cut lengthwise into short thin strips or dice them. Never serve round slices.",
+          "sourceIds": [
+            "hc-6-24",
+            "cdc-intro-solids",
+            "usda-cacfp-choking",
+            "hlbc-choking"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Hot dogs are the food most often linked with fatal choking in children.",
+          "sourceIds": [
+            "hc-6-24"
+          ]
+        },
+        {
+          "text": "USDA does not recommend processed meats for babies because they are high in sodium.",
+          "sourceIds": [
+            "usda-cacfp-solids",
+            "cdc-avoid"
+          ]
+        }
+      ],
+      "usdaQuery": "Frankfurter, beef"
+    },
+    {
+      "slug": "popcorn",
+      "name": "Popcorn",
+      "category": "other",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [],
+      "safety": [
+        {
+          "text": "Do not give popcorn to children younger than 4 years, because it is a choking hazard.",
+          "sourceIds": [
+            "hc-6-24",
+            "hlbc-choking",
+            "hlbc-choking-topic",
+            "cdc-choking"
+          ]
+        }
+      ],
+      "usdaQuery": "Snacks, popcorn, air-popped"
+    },
+    {
+      "slug": "whole-nuts",
+      "name": "Whole nuts & seeds",
+      "category": "other",
+      "allergens": [
+        "peanut",
+        "tree-nuts",
+        "sesame"
+      ],
+      "ironRich": false,
+      "prep": [],
+      "safety": [
+        {
+          "text": "Do not give whole or chopped peanuts, other nuts or seeds to children under 4, because they are choking hazards. Offer smooth nut or seed butter, thinned or spread thinly, instead.",
+          "sourceIds": [
+            "hc-6-24",
+            "hlbc-choking",
+            "hlbc-choking-topic",
+            "hlbc-intro-solids",
+            "cdc-choking"
+          ]
+        },
+        {
+          "text": "Infants and small children should never be given whole peanuts because of the choking risk.",
+          "sourceIds": [
+            "niaid-parent-summary"
+          ]
+        }
+      ],
+      "usdaQuery": "Nuts, almonds"
+    },
+    {
+      "slug": "honey",
+      "name": "Honey",
+      "category": "other",
+      "allergens": [],
+      "ironRich": false,
+      "prep": [],
+      "safety": [
+        {
+          "text": "Do not give honey to a baby under 12 months, even in cooked or baked foods or when pasteurized, because of the risk of infant botulism.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hc-6-24",
+            "hc-infant-nutrition",
+            "cdc-avoid",
+            "usda-cacfp-solids"
+          ]
+        }
+      ],
+      "usdaQuery": "Honey"
+    },
+    {
+      "slug": "cows-milk",
+      "name": "Cow's milk (as a drink)",
+      "category": "dairy",
+      "allergens": [
+        "milk"
+      ],
+      "ironRich": false,
+      "prep": [
+        {
+          "stage": "9-12 months",
+          "text": "Canada: whole (homogenized, 3.25%) pasteurized cow milk may be offered in an open cup from 9 to 12 months, once the baby eats a variety of iron-rich foods.",
+          "sourceIds": [
+            "hlbc-first-foods",
+            "hc-6-24",
+            "hc-infant-nutrition"
+          ]
+        },
+        {
+          "stage": "12+ months",
+          "text": "US: wait until 12 months to offer whole, pasteurized, unflavored cow's milk. Canada advises no more than 750 mL a day.",
+          "sourceIds": [
+            "cdc-cows-milk",
+            "hc-6-24"
+          ]
+        }
+      ],
+      "safety": [
+        {
+          "text": "Do not offer skim, 1% or 2% milk before age 2.",
+          "sourceIds": [
+            "hc-infant-nutrition",
+            "hlbc-first-foods"
+          ]
+        },
+        {
+          "text": "Too much cow milk is the most common risk factor for severe anemia, and introducing it early increases the risk of iron deficiency.",
+          "sourceIds": [
+            "hc-6-24"
+          ]
+        },
+        {
+          "text": "Never give raw (unpasteurized) milk.",
+          "sourceIds": [
+            "hc-6-24",
+            "cdc-avoid"
+          ]
+        }
+      ],
+      "usdaQuery": "Milk, whole, 3.25% milkfat, with added vitamin D"
+    }
+  ]
+}
